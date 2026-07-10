@@ -1,0 +1,22 @@
+cff-version: 1.0.1
+message: Sistema para automatização de processos internos de uma oficina automotiva
+title: AgiliCar
+authors:
+  - family-names: Almeida
+    given-names: Lucas
+  - family-names: Nakabayashi
+    given-names: Victor 
+  - family-names: Ferreira 
+    given-names: Vitor    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Marcia Gomes Amaral
+    given-names: Cleia
+keywords:
+  - Ordem de Serviço  
+  - Oficina Automotiva
+  - Automatização
+repository-code: https://github.com/ICEI-PUCMinas-PSG-SI-TI/PSG-SI-2025-1-P5-TIAS-6428101-mochileiros
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-26

@@ -1,0 +1,29 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.swp
+*.bak
+*.tmp
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+logs/
+*.log
+
+## Upload files
+AgiliCar.API/Uploads/
+
+## Secrets
+appsettings.Local.json
+appsettings.Secrets.json
+secrets.json
+.env
